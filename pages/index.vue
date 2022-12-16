@@ -59,7 +59,7 @@
               branding
             </p>
           </div>
-          <img class="w-80 h-80" src="/1.svg" alt="" />
+          <img class="w-80 h-80" src="/1.jpg" alt="" />
         </div>
 
         <div class="flex flex-col md:flex-row-reverse items-center mt-10">
@@ -69,7 +69,7 @@
               Recieve incoming orders without a waiter in your dashboard
             </p>
           </div>
-          <img class="w-80 h-80" src="/2.svg" alt="" />
+          <img class="w-80 h-80" src="/3.jpg" alt="" />
         </div>
 
         <div class="flex flex-col md:flex-row items-center mt-10">
@@ -80,7 +80,7 @@
               your menu
             </p>
           </div>
-          <img class="w-80 h-80" src="/3.svg" alt="" />
+          <img class="w-80 h-80" src="/2.jpg" alt="" />
         </div>
 
         <div class="flex flex-col md:flex-row-reverse items-center mt-10">
@@ -90,7 +90,7 @@
               Know how your business is doing with Real-Time Analytics
             </p>
           </div>
-          <img class="w-80 h-80" src="/4.svg" alt="" />
+          <img class="w-80 h-80" src="/4.jpg" alt="" />
         </div>
       </section>
 
